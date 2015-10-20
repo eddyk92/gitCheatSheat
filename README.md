@@ -30,12 +30,12 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git commit -m "<commit message>"` - Record changes to the repository with the message, `<commit message>`
 
 #### Branching
-`$ git branch <branch name>` - Create a new branch called `<branch name>`
+`$ git branch <branch name>` - branch2
 
-`$ git branch` - __Fill Me Out__
+`$ git branch` - Show which Branch your on
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git checkout <branch name>` - Move Branches
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - merge to branch2 
